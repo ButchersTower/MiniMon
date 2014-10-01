@@ -6,6 +6,7 @@ Pokemon clone.
 Two Aspects:
 
 Moving :: Fighting
+(Battle.java) :: (Walking.java)
 
 Both very shitty.
 
