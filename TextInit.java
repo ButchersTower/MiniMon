@@ -1,4 +1,4 @@
-package pkmn;
+package MiniMon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

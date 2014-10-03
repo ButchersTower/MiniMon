@@ -1,4 +1,4 @@
-package pkmn;
+package MiniMon;
 
 import javax.swing.JFrame;
 

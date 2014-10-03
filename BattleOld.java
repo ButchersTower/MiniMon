@@ -1,4 +1,4 @@
-package pkmn;
+package MiniMon;
 
 import java.awt.Color;
 import java.awt.Dimension;
